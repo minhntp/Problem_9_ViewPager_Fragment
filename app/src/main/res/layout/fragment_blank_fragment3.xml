@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#04e200"
+    android:paddingTop="30dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context="com.bkdn.nqminh.problem_9_viewpager_fragment.BlankFragment">
+
+    <ImageView
+        android:layout_weight="5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:src="@drawable/ed_sheeran"
+        android:background="#04e200"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_weight="5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/ed_sheeran"
+        android:ems="10"
+        android:textSize="24px"
+        android:background="#04e200"
+        android:textColor="#333"
+        android:id="@+id/editText" />
+
+</LinearLayout>

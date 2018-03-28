@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Problem_9_ViewPager_Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coldplay">Coldplay are a British rock band formed in 1996 by lead singer and
+        pianist Chris Martin and lead guitarist Jonny Buckland at University College London (UCL).
+        After they formed under the name Pectoralz, Guy Berryman joined the group as bassist and
+        they changed their name to Starfish. Will Champion joined as drummer and backing vocalist,
+        completing the lineup. Creative director and former manager Phil Harvey is often referred
+        to as the fifth member by the band. The band renamed themselves "Coldplay" in 1998, before
+        recording and releasing three EPs: Safety in 1998 and Brothers &amp; Sisters and The Blue
+        Room in 1999. The Blue Room was their first release on a major label, after signing to
+        Parlophone.</string>
+    <string name="the_beatles">The Beatles were an English rock band formed in Liverpool in 1960.
+        With members John Lennon, Paul McCartney, George Harrison and Ringo Starr,
+        they became widely regarded as the foremost and most influential music band.
+        Rooted in skiffle, beat and 1950s rock and roll, the Beatles later experimented with
+        several musical styles, ranging from pop ballads and Indian music to psychedelia and
+        hard rock, often incorporating classical elements and unconventional recording techniques
+        in innovative ways. In 1963 their enormous popularity first emerged as "Beatlemania";
+        as the groups music grew in sophistication, led by primary songwriters Lennon and
+        McCartney, the band were integral to pop musics evolution into an art form and to
+        the development of the counterculture of the 1960s.</string>
+    <string name="ed_sheeran">Edward Christopher Sheeran, MBE, born 17 February 1991, is an English
+        singer, songwriter, guitarist, record producer, and actor.
+        Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk.
+        He attended the Academy of Contemporary Music in Guildford as an undergraduate
+        from the age of 18 in 2009. In early 2011, Sheeran independently released the extended
+        play, No. 5 Collaborations Project. After signing with Asylum Records, his debut album,
+        + (read as "plus"), was released in September 2011. It topped the UK and Australian charts,
+        reached number five in the US, and has since been certified seven-times platinum in the UK.
+        The album contains the single "The A Team", which earned him the Ivor Novello Award for
+        Best Song Musically and Lyrically. In 2012, Sheeran won the Brit Awards for Best British
+        Male Solo Artist and British Breakthrough Act. "The A Team" was nominated for Song of the
+        Year at the 2013 Grammy Awards, where he performed the song with Elton John.</string>
+</resources>

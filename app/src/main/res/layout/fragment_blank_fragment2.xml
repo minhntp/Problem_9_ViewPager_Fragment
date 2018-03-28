@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#007bff"
+    android:paddingTop="30dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context="com.bkdn.nqminh.problem_9_viewpager_fragment.BlankFragment">
+
+    <ImageView
+        android:layout_weight="5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:src="@drawable/the_beatles"
+        android:background="#007bff"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_weight="5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/the_beatles"
+        android:ems="10"
+        android:textSize="27px"
+        android:background="#007bff"
+        android:textColor="#333"
+        android:id="@+id/editText" />
+
+</LinearLayout>
